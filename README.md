@@ -9,6 +9,7 @@ The Kondinin region in Western Australia faces significant agricultural challeng
 
 ## Usage
 
-
+The code files in this repository are used for preprocessing, filtering, calibration, and stitching of the original multispectral image dataset, as well as for feature selection and model training.
+This project involves constructing a multispectral image dataset based on UAV data collected in the Kolinin region of Western Australia. The dataset has been made publicly available and can be accessed via the following link: Kolinin Multispectral Image Dataset. Due to the space limitations on GitHub, we have uploaded the dataset to a cloud storage platform.
 
 
